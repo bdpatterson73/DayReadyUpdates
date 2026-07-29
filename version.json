@@ -1,9 +1,9 @@
 {
   "product": "DayReady",
-  "version": "1.0.1",
-  "build": 1,
-  "firmwareUrl": "https://github.com/bdpatterson73/DayReadyUpdates/releases/download/v1.0.1/firmware.bin",
-  "size": 983280,
-  "sha256": "4859135bab1627ec841534cb7353dca3e52322ca47579fd61a0f145c3328d547",
+  "version": "1.0.2",
+  "build": 2,
+  "firmwareUrl": "https://github.com/bdpatterson73/DayReadyUpdates/releases/download/v1.0.2/firmware.bin",
+  "size": 0,
+  "sha256": "",
   "releaseNotes": "Initial DayReady automatic-update release"
 }
